@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "545000957036",
+    "firebase_url": "https://overtimebd-94b9a.firebaseio.com",
+    "project_id": "overtimebd-94b9a",
+    "storage_bucket": "overtimebd-94b9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545000957036:android:1170ec3da9630f02192449",
+        "android_client_info": {
+          "package_name": "com.etl.overtimebd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545000957036-os7accmsrtnaiq7gebribaqvdr2o0ro8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.etl.overtimebd",
+            "certificate_hash": "c0905b5d051cda8cfbf159846083e0e879b268db"
+          }
+        },
+        {
+          "client_id": "545000957036-rllfiscdpc18i3v7dfrfss82gi5n7qjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBipaLhJzz-e2rBCTwtxpNAwcA3tB1xDGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545000957036-rllfiscdpc18i3v7dfrfss82gi5n7qjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
